@@ -14,7 +14,7 @@ use tokio::sync::mpsc;
 #[command(
     name = "m3u8-checker",
     version = "v1.0.0",
-    about = "A tool to extract valid m3u8 link.",
+    about = "A tool to extract valid links for m3u8 or m3u file.",
     long_about = None
 )]
 
